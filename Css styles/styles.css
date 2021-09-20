@@ -1,0 +1,30 @@
+table {
+    border: 1px solid black;
+    border-spacing: 0;
+    margin: 20px;
+}
+.elso {
+    width: 200px;
+}
+.masodik {
+    width: 130px;
+    text-align: center;
+}
+tr, td, th {
+    border: 1px solid black;
+    padding: 15px 15px 25px 5px;
+;
+    
+}
+thead {
+    background-color: teal;
+}
+tfoot {
+    background-color: rgb(26, 180, 180);
+}
+.szin {
+    background-color: rgb(170, 243, 243);
+}
+.betumeret {
+    font-weight: bold;
+}
